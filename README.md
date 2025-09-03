@@ -4,7 +4,7 @@
 <h4 align="center" style="font-size: larger;"><strong>My Github Stats</strong></h4>
   
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Robert-Stackflow&show_icons=true&theme=transparent&title_color=40c463&card_width=800px&hide_title=true" 
+  <img src="https://github-readme-stats.vercel.app/api?username=Robert-Stackflow&show_icons=true&theme=transparent&title_color=40c463&hide_title=true" 
        alt="My Github Stats">
 </div>
 
