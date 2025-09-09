@@ -1,14 +1,16 @@
 <h1 align="center">Hi 👋, I'm Robert-Stackflow</h1>
-<h4 align="center">A student from Huazhong University of Science and Technology.</h4>
 
-<h4 align="center" style="font-size: larger;"><strong>My Github Stats</strong></h4>
-  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Robert-Stackflow&theme=transparent&title_color=40c463&hide_title=true&rank_icon=percentile" 
-       alt="My Github Stats">
-</div>
+<p>
+<ul>
+  <li>Graduate Student in Computer Science at Huazhong University of Science and Technology.</li>
+  <li>Interested in artificial intelligence, open-source development, and software engineering.</li>
+  <li>Email: yutuan.victory@gmail.com</li>
+  <li>Blog: <a href="https://blog.cloudchewie.com">blog.cloudchewie.com</a></li>
+</ul>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Robert-Stackflow&theme=github-light&custom_title=My%20Contribution%20Graph" 
-       alt="My Contribution Graph">
-</div>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Robert-Stackflow&theme=transparent&title_color=40c463&hide_title=true&rank_icon=percentile" 
+  alt="My Github Stats" 
+  height="180px"
+/>
